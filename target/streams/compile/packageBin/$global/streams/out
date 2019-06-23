@@ -1,0 +1,7 @@
+[info] Packaging C:\Users\USER\Documents\GitHub\pathfinder\target\scala-2.13\pathfinder_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	HelloWorld$.class
+[debug] 	  C:\Users\USER\Documents\GitHub\pathfinder\target\scala-2.13\classes\HelloWorld$.class
+[debug] 	HelloWorld.class
+[debug] 	  C:\Users\USER\Documents\GitHub\pathfinder\target\scala-2.13\classes\HelloWorld.class
+[info] Done packaging.
