@@ -1,0 +1,14 @@
+[debug] Full compilation, no sources in previous analysis.
+[debug] All sources are invalidated.
+[debug] Recompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources
+[info] Compiling 1 Scala source to C:\Users\USER\Documents\GitHub\pathfinder\target\scala-2.13\test-classes ...
+[debug] Getting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0
+[debug] Getting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0
+[debug] [zinc] Running cached compiler 67f0c321 for Scala compiler version 2.13.0
+[debug] [zinc] The Scala compiler is invoked with:
+[debug] 	-bootclasspath
+[debug] 	C:\Program Files\Java\jdk1.8.0_181\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_181\jre\classes;C:\Users\USER\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.13.0.jar
+[debug] 	-classpath
+[debug] 	C:\Users\USER\Documents\GitHub\pathfinder\target\scala-2.13\test-classes;C:\Users\USER\Documents\GitHub\pathfinder\target\scala-2.13\classes;C:\Users\USER\.ivy2\cache\org.scalactic\scalactic_2.13\bundles\scalactic_2.13-3.0.8.jar;C:\Users\USER\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.13.0.jar;C:\Users\USER\.ivy2\cache\org.scalatest\scalatest_2.13\bundles\scalatest_2.13-3.0.8.jar;C:\Users\USER\.ivy2\cache\org.scala-lang.modules\scala-xml_2.13\bundles\scala-xml_2.13-1.2.0.jar
+[debug] Scala compilation took 3.8012766 s
+[info] Done compiling.
