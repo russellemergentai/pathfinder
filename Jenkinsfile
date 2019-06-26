@@ -10,7 +10,7 @@ pipeline {
         }
         stage('ScalaTest') {
                     steps {
-                        echo "Compiling..."
+                        echo "Testing..."
                         sh "sbt test"
                     }
                 }
