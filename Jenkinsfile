@@ -5,7 +5,7 @@ pipeline {
         stage('Compile') {
             steps {
                 echo "Compiling..."
-                sh "C:\\Program Files (x86)\\sbt\\bin\\sbt-launch compile"
+                "C:\\Program Files (x86)\\sbt\\bin\\sbt-launch compile"
             }
         }
     }
