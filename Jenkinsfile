@@ -5,7 +5,7 @@ pipeline {
         stage('Compile') {
             steps {
                 echo "Compiling..."
-                bat "sbt compile"
+                sh "sbt compile"
             }
         }
     }
