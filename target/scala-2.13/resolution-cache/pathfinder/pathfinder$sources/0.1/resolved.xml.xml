@@ -4,7 +4,7 @@
 		module="pathfinder$sources"
 		revision="0.1"
 		status="integration"
-		publication="20190626142354"
+		publication="20190701155854"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
