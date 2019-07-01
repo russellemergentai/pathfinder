@@ -3,5 +3,5 @@ object HelloWorld {
     println("changes made on working branch")
   }
 
-  def func:Int = 1
+  def func:Int = 2
 }
